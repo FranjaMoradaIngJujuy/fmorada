@@ -59,6 +59,12 @@ ul {
     margin-left: 20px;
 }
 
+.imgNav {
+    width: 60px;
+    height: 60px;
+    margin: 20px 10px;
+}
+
 /* Showcase */
 
 hr {
@@ -86,7 +92,7 @@ hr {
     background-color: #007bff;
     color: black;
     border: 1px solid #262626; 
-    margin: -2.8% 10%;
+    margin: -3% 10%;
  }
 
   .TextBan {
