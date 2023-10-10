@@ -25,7 +25,6 @@ ul {
 .container {
     width: 90%;
     margin: auto;
-    min-width: 100vh;
 }
 
 /* Style Navigation*/
