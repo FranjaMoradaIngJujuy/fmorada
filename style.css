@@ -29,24 +29,35 @@ ul {
 }
 
 /* Style Navigation*/
-
+/* falta terminar */
 .nav-main {
-    display: flex;
+    padding-top: 10px;
+    position: fixed;
+    z-index: 9999;
     font-size: 17px;
+    top: 0;
+    left: 0;
     justify-content: space-between;
     align-items: center;
-    height: 60px;
+    background-color: #470c63;
+    height: 80px;
+    width: 100%;
     padding: 20px 0;
 }
 
 /*Nav Left*/
 
 .nav-main ul {
+    padding-top: 10px;
     display: flex;
+    width: 100%;
 }
 
 .nav-main ul li {
+    padding-top: 10px;
+    display: flex;
     padding: 30px;
+    width: 100%;
 }
 
 .nav-main ul li a:hover {
@@ -149,7 +160,7 @@ hr {
 /* Footer = pie de pagina */
 
  .footer {
-    position: fixed;
+    display: flex;
     bottom: 0;
     left: 0;
     width: 100%;
