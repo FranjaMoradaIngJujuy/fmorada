@@ -64,7 +64,7 @@ ul {
 }
 
 .nav-main ul li {
-    padding: 30px;
+    padding: 20px;
 }
 
 .nav-main ul li a:hover {
@@ -75,12 +75,6 @@ ul {
 .nav-main ul.nav-menu {
     flex: 1;
     margin-left: 20px;
-}
-
-.imgNav {
-    width: 60px;
-    height: 60px;
-    margin: 20px 10px;
 }
 
 /* Showcase */
