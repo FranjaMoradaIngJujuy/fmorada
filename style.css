@@ -28,7 +28,20 @@ ul {
 }
 
 /* Style Navigation*/
-/* falta terminar */
+.nav-main {
+    display: flex;
+    font-size: 17px;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    padding: 20px 0;
+}
+
+.imgNav {
+    width: 50px;
+    height: 50px;
+}
+/* falta terminar 
 .nav-main {
     padding-top: 10px;
     position: fixed;
