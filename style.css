@@ -172,6 +172,10 @@ hr {
     
   }
 
+.footer_p {
+    margin:0;
+}
+
 .contact-social-icons {
     display: flex;
     align-items: center;
