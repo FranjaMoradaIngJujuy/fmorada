@@ -158,6 +158,10 @@ hr {
     text-decoration: underline rgb(212, 45, 253);
  }
 
+/* Sector de informacion del Nav-Menu*/
+.h {
+    padding-top: 15px;
+}
 /* Footer = pie de pagina */
 
  .footer {
