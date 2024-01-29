@@ -97,7 +97,7 @@ hr {
 
   .btn {
     cursor: pointer;
-    display: flex;
+    display: inline-block;
     font-weight: bold;
     padding: 10px 20px;
     border-radius: 15px;
